@@ -31,6 +31,8 @@ export const styles = StyleSheet.create({
     flex:1,
     padding:16,
     marginRight:16,
+    fontSize:theme.fonts.sizes.small,
+    color:theme.colors.gray_100,
     backgroundColor:theme.colors.primary,
     borderRadius: theme.border.radius
   },
